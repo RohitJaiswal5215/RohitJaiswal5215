@@ -1,4 +1,4 @@
- Hi, I'm Rohit 
+                    Hi, I'm Rohit
 
 **Aspiring Software Engineer & Software Tester**  
  Skilled in **Java | JavaScript | SQL |  Selenium | Cypress**  
@@ -12,7 +12,7 @@
 - **Backend & Frameworks:** , REST APIs  
 - **Testing Tools:** Selenium, Cypress, TestNG, JUnit, Postman, JMeter, JIRA  
 - **Version Control:** Git, GitHub  
-- **Other Skills:** Agile, SDLC, HTML, CSS
+- **Other Skills:** Agile, POM, Maven, SDLC, HTML, CSS
   
 
 ## Projects Showcase 
