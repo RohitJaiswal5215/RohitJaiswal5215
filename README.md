@@ -10,7 +10,7 @@
 **Tech Stack**
 - **Programming:** Java, JavaScript, SQL  
 - **Backend & Frameworks:** , REST APIs  
-- **Testing Tools:** Selenium, Cypress, TestNG, JUnit, Postman, JMeter  
+- **Testing Tools:** Selenium, Cypress, TestNG, JUnit, Postman, JMeter, JIRA  
 - **Version Control:** Git, GitHub  
 - **Other Skills:** Agile, SDLC, HTML, CSS
   
@@ -33,7 +33,7 @@ Focused on **Manual Testing** of a demo Cpp Compiler application.
 
 
 ## 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/rohit-software-engineer/)  
+   [LinkedIn](https://www.linkedin.com/in/rohit-software-engineer/)  
 -  Email: rohitjaiswal5215@gmail.com  
 
  I’m growing into a professional Software Engineer & Tester.
