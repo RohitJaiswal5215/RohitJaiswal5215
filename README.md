@@ -1,4 +1,4 @@
-                    Hi, I'm Rohit
+HI, I'M ROHIT
 
 **Aspiring Software Engineer & Software Tester**  
  Skilled in **Java | JavaScript | SQL |  Selenium | Cypress**  
