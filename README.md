@@ -9,7 +9,8 @@
  
 
 **Tech Stack**
--**Testing type:** Manual Testing, Automation Testing(Selenium, Cypress), API Testing, Performance Testing
+
+- **Testing type:** Manual Testing, Automation Testing(Selenium, Cypress), API Testing, Performance Testing
 - **Testing Tools:** Selenium, Cypress, TestNG, JUnit, Postman, JMeter, JIRA
 - **Programming:** Java, JavaScript
 - **database :** SQL
